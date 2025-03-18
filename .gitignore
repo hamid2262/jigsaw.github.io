@@ -1,0 +1,6 @@
+# Ignore RubyMine and IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
